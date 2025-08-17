@@ -207,22 +207,4 @@ cd backend
 - **Smooth Animations**: Hardware-accelerated CSS transitions
 - **Responsive Images**: Optimized for different screen sizes
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Support
-
-For support or questions, please open an issue in the repository.
-
----
-
-**Built with ❤️ using React, Node.js, and MongoDB**
+**Built using React, Node.js, and MongoDB**
